@@ -1,0 +1,5 @@
+14-10-2022 10:16 [WARN][HikariPool-1 housekeeper][c.z.h.p.HikariPool:788] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h34m55s596ms850µs400ns).
+14-10-2022 13:05 [INFO][SpringApplicationShutdownHook][o.s.o.j.LocalContainerEntityManagerFactoryBean:651] Closing JPA EntityManagerFactory for persistence unit 'default'
+14-10-2022 13:05 [INFO][SpringApplicationShutdownHook][o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl:538] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+14-10-2022 13:05 [INFO][SpringApplicationShutdownHook][c.z.h.HikariDataSource:350] HikariPool-1 - Shutdown initiated...
+14-10-2022 13:05 [INFO][SpringApplicationShutdownHook][c.z.h.HikariDataSource:352] HikariPool-1 - Shutdown completed.
